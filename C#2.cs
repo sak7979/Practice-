@@ -1,2 +1,3 @@
-Console.WriteLine("Hllo");
-Console.WriteLine("Ke");
+int a = 50;
+int b = 30;
+Console.WriteLine(a + b);
