@@ -1,2 +1,1 @@
-Console.WriteLine("Hellllll");
-Console.WriteLine("Kokline");
+Console.WriteLine("Hello world 7888");
